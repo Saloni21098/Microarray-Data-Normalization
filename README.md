@@ -1,6 +1,6 @@
 # RMA normalization of microarray data
 
-# Load the libraries
+## Load the libraries
 library(tidyverse)
 library(GEOquery)
 library(BiocManager)
